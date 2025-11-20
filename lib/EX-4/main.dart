@@ -102,7 +102,7 @@ class _ScoreCardState extends State<ScoreCard> {
               widget.title,
               style: TextStyle(
                 color: Colors.grey,
-                fontSize: 20,
+                fontSize: 30,
                 fontWeight: FontWeight.bold,
               ),
             ),
